@@ -8,7 +8,7 @@ Angular + ASP.NET Core Web API + Identity Server 4
 
 	git clone https://github.com/Blue-Oranges/Angular_Tutorial.git
 	cd：Angular_Tutorial
-
+	cd：Angular_Todo
 
 2、执行下面命令安装依赖:
 
